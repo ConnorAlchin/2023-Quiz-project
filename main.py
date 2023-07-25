@@ -1,1 +1,1 @@
-print("welcome")
+import intro

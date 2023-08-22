@@ -1,6 +1,6 @@
 
 
-#allows user to choose what they are quized on
+#allows user to choose what times table  they are quized on
 times = int(input("Enter a timetable that you would like to be tested on:"))
 max_num = int(input("Enter the maximum value for your timetable:"))
 max_num += 1

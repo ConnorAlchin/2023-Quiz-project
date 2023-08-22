@@ -22,7 +22,8 @@ def yes_no(question):
 #function to display instructions
 def instructions():
   print("welcome to the math quiz")
-  print("Awnser as many questions as you can without losing all three of your lives")
+  print("you will choose what times table you want to use") 
+  print("Then try not to get three wrong or you will lose.")
 
 
 
